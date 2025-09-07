@@ -11,7 +11,9 @@ example for 3rd movie https://localhost:7132/products/details/16
 Example of road map leading to specific movie genres:
 
 https://localhost:7132/products/bygenre/comedy
+
 https://localhost:7132/products/bygenre/western
+
 https://localhost:7132/products/bygenre/romantic%20comedy
 
 Example of road map leading to movies based on release date:

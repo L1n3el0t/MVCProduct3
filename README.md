@@ -2,9 +2,8 @@
 
 https://localhost:7132/products
 
-the road map for the first movie works for id 14 rather than id 1 along with other movie ids increased by 13.
-
 # Example for first movie on list:
+the road map for the first movie works for id 14 rather than id 1 along with other movie ids increased by 13.
 
 https://localhost:7132/products/details/14
 

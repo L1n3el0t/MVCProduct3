@@ -1,4 +1,4 @@
-# main products page:
+# Main products page:
 
 https://localhost:7132/products
 

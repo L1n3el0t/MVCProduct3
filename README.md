@@ -19,6 +19,7 @@ https://localhost:7132/products/bygenre/romantic%20comedy
 Example of road map leading to movies based on release date:
 
 https://localhost:7132/products/released/1989
+
 https://localhost:7132/products/released/1959
 
 Going to movie create page example: https://localhost:7132/products/create
